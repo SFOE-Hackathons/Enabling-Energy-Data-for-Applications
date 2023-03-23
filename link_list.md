@@ -34,4 +34,5 @@ https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd110_strom_verbrauch_prognos
 Täglicher Strom Landesverbrauch Forecast (wide)<br>
 https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd103_stromverbrauch_geschaetzt_swissgrid.csv
 <br><br>
+<img src="utils/schema1.JPG" width="100%">
 
