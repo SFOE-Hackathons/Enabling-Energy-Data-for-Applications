@@ -13,7 +13,7 @@ https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd110_strom_verbrauch_prognos
 Tägliche **Strom** Importe und Exporte aus FR, DE, AT, IT (wide)<br>
 https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd107_strom_import_export.csv
 <br><br>
-Tägliche Gasspeicherstand in TWh und Prozent FR, DE, AT, IT, EU (wide)<br>
+Tägliche Gasspeicherstand in TWh und Prozent FR, DE, AT, IT, EU (long)<br>
 https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd102_fuellstand_gasspeicher.csv
 <br><br>
 Tägliche **Gas** Importe und Exporte aus FR, DE, AT, IT (wide)<br>
