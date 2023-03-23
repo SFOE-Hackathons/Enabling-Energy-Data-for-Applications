@@ -1,4 +1,4 @@
-Tägliche Stromproduktion nach Typ <br>
+Tägliche Stromproduktion nach Typ (long) <br>
 https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd104_stromproduktion_swissgrid.csv
 <br><br>
 Täglicher Strom Endverbrauch und Landesverbrauch <br>
