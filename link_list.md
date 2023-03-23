@@ -18,4 +18,4 @@ https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd102_fuellstand_gasspeicher.
 <br><br>
 Tägliche **Gas** Importe und Exporte aus FR, DE, AT, IT <br>
 https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd101_gas_import_export.csv <br> 
-*weil die Schweiz keinen Gasspeicher besitzt und keine Gas Produktion hat entspricht der Gas Nettoimport dem Gasverbrauch*
+*weil die Schweiz keinen Gasspeicher besitzt und keine Gas Produktion hat entspricht der Gas Nettoimport dem Gasverbrauch. Exporte kommen aus Transitflüssen*
