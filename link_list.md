@@ -1,7 +1,7 @@
 Tägliche Stromproduktion nach Typ (long) <br>
 https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd104_stromproduktion_swissgrid.csv
 <br><br>
-Täglicher Strom Endverbrauch und Landesverbrauch (wide) <br>
+Täglicher Strom Endverbrauch und Landesverbrauch (wide)<br>
 https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd103_stromverbrauch_swissgrid_lv_und_endv.csv
 <br><br>
 Täglicher Strom Landesverbrauch Forecast (wide) <br>
