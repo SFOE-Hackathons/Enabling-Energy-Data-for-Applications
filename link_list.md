@@ -10,9 +10,6 @@ https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd103_stromverbrauch_geschaet
 Täglicher Strom Endverbrauch Forecast (wide)<br>
 https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd110_strom_verbrauch_prognose.csv
 <br><br>
-Tägliche **Strom** Importe und Exporte aus FR, DE, AT, IT (wide)<br>
-https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd107_strom_import_export.csv
-<br><br>
 Tägliche Gasspeicherstand in TWh und Prozent FR, DE, AT, IT, EU (long)<br>
 https://bfe-energy-dashboard-ogd.s3.amazonaws.com/ogd102_fuellstand_gasspeicher.csv
 <br><br>
