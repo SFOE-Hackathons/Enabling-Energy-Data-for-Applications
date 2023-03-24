@@ -11,7 +11,7 @@ https://bfeprototype.sh1.hidora.com/swagger/index.html
 Data-Aggregator-URLs:
 Swagger: https://vestal-bead-production.up.railway.app/swagger-ui/index.html#/
 Get all data: https://vestal-bead-production.up.railway.app/getall
-Filter by attribute: https://vestal-bead-production.up.railway.app/getallfilter=hasAttribute:datum
+Filter by attribute: https://vestal-bead-production.up.railway.app/getall?filter=hasAttribute:datum
 Get all available datasources: http://vestal-bead-production.up.railway.app/getAllRegisteredDataSources
 
 
