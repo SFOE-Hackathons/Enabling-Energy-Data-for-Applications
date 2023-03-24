@@ -6,6 +6,7 @@ https://hack.opendata.ch/project/942
 
 Test-URL for API bfe-energydashboard:
 https://bfeprototype.sh1.hidora.com/swagger/index.html
+(will stay online until summer 2023)
 
 A .NET 6 webapi - project can be found here: https://github.com/Geodata20/bfe.energiedashboard.apicollection.app
 
