@@ -8,5 +8,12 @@ Test-URL for API bfe-energydashboard:
 https://bfeprototype.sh1.hidora.com/swagger/index.html
 (will stay online until summer 2023)
 
+Data-Aggregator-URLs:
+Swagger: https://vestal-bead-production.up.railway.app/swagger-ui/index.html#/
+Get all data: https://vestal-bead-production.up.railway.app/getall
+Filter by attribute: https://vestal-bead-production.up.railway.app/getallfilter=hasAttribute:datum
+Get all available datasources: http://vestal-bead-production.up.railway.app/getAllRegisteredDataSources
+
+
 A .NET 6 webapi - project can be found here: https://github.com/Geodata20/bfe.energiedashboard.apicollection.app
 
